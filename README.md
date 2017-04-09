@@ -24,7 +24,9 @@ Each is a separate git repository with an extensive guide in the `README.md`.
   - start with the simplest possible Application Context, explore each component (like the `BeanFactory`, `BeanFactoryPostProcessor`, `MessageSource`, `Environment`, and others.
   - slowly include more feature-rich versions of the Application Context all the way to a fully-initialized Spring Boot-configured application.
 - [Aspect-Oriented Programming Deep Dive](https://github.com/spring-roots/aop-deep-dive) -- become intimate with Aspect-Oriented Programming in the Spring ecosystem.
-  - seed a sample "aspect" using the Decorator pattern and evolve it through proxies and ultimately AspectJ aspects.
+  - seed a sample "aspect" using the Decorator pattern,
+  - evolve it to use proxies,
+  - and ultimately AspectJ aspects.
   - understand in what circumstances to apply each of the AOP options.
 
 # Other Resources
